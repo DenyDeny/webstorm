@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
